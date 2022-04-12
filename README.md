@@ -3,6 +3,8 @@
 
 ignews is a blog, built with nextjs, sass, stripe and prismic cms, with the objective that subscriber users of the platform have access to exclusive content in text format, while non-subscribers can only see the preview of the posted content.
 
+To see a similar project that is in production, please visit: [https://github.com/lucasmv2205/blog-application](this repo)
+
 ## Features
 - Authentication with github and NextAuth
 - stripe payments API(SSR)
